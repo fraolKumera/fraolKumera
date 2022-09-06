@@ -5,7 +5,7 @@
 - 👀 I’m interested in webapp development
 - 🌱 I’m a lifetime learner
 - 💞️ I’m looking to collaborate on front-end applications
-- 📫 you can find me on my email address fraolkumera@gmail.com or my linked in address https://et.linkedin.com/in/fraol-kumera-6482b2183
+- 📫 you can find me on my email address fraolkumera@gmail.com or my linked in address https://et.linkedin.com/in/fraol-kumera
 - 🌐 Website https://bitappstech.com
 - 🔌 Socoial links https://direct.me/barney
 
