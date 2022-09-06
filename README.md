@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fraolKumera
 - 👀 I’m interested in webapp development
-- 🌱 I’m currently learning web3
+- 🌱 I’m a lifetime learner
 - 💞️ I’m looking to collaborate on front-end applications
 - 📫 you can find me on my email address fraolkumera@gmail.com or my linked in address https://et.linkedin.com/in/fraol-kumera-6482b2183
 
